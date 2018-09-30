@@ -1,0 +1,500 @@
+   24  ls
+   25  ls
+   26  ls
+   27  ls
+   28  sl
+   29  ls
+   30  cd ..
+   31  clear
+   32  ls
+   33  rm -rchappie.dacapo-9.12-bach
+   34  rm -r chappie.dacapo-9.12-bach
+   35  clear
+   36  cp ~/method_stats/dacapo-9.12-bach.jar .
+   37  clear
+   38  ls
+   39  ./dacapo.sh 
+   40  sudo ./dacapo.sh 
+   41  ls
+   42  clear
+   43  ls
+   44  cd ../
+   45  ls
+   46  cd chappie
+   47  ls
+   48  vim src/chappie/Chaperone.java
+   49  clear
+   50  ls
+   51  clear
+   52  pwd
+   53  echo $(pwd)
+   54  echo $(ls)
+   55  echo $(pwd)
+   56  echo $(ls)
+   57  clear
+   58  ls
+   59  s
+   60  ls
+   61  cd ..
+   62  ls
+   63  cd chappie-benchmarking/
+   64  ls
+   65  ./dacapo.sh 
+   66  cd ~
+   67  sl
+   68  cd chappie_project/
+   69  ls
+   70  cd chappie
+   71  sudo ant
+   72  clear
+   73  sudo ant
+   74  sudo ant jar
+   75  cd ~
+   76  ls -ltr
+   77  echo $(pwd)
+   78  clear
+   79  l
+   80  ls -ltr
+   81  cd chappie_project/
+   82  ls
+   83  cd chappie-benchmarking/
+   84  clear
+   85  ls
+   86  ./dacapo.sh 
+   87  clear
+   88  ls -ltr
+   89  sudo ./dacapo.sh 
+   90  top
+   91  clear
+   92  vim dacapo.sh 
+   93  vim dacapo.sh 
+   94  sudo ./dacapo.sh 
+   95  vim dacapo.sh 
+   96  vim dacapo.sh 
+   97  sudo ./dacapo.sh 
+   98  vim dacapo.sh 
+   99  vim dacapo.sh 
+  100  sudo ./dacapo.sh 
+  101  vim dacapo.sh 
+  102  sudo ./dacapo.sh 
+  103  vim dacapo.sh 
+  104  vim dacapo.sh 
+  105  sudo ./dacapo.sh 
+  106  vim dacapo.sh 
+  107  sudo ./dacapo.sh 
+  108  v
+  109  vim dacapo.sh 
+  110  sudo ./dacapo.sh 
+  111  vim dacapo.sh 
+  112  sudo ./dacapo.sh 
+  113  vim dacapo.sh 
+  114  sudo ./dacapo.sh 
+  115  vim dacapo.sh 
+  116  sudo ./dacapo.sh 
+  117  vim dacapo.sh 
+  118  sudo ./dacapo.sh 
+  119  vim dacapo.sh 
+  120  sudo ./dacapo.sh 
+  121  sudo ./dacapo.sh 
+  122  clear
+  123  ls
+  124  vim dacapo
+  125  vim dacapo.sh 
+  126  vim dacapo.sh 
+  127  ./dacapo.sh 
+  128  sudo ./dacapo.sh 
+  129  vim dacapo.sh 
+  130  sudo ./dacapo.sh 
+  131  vim dacapo.sh 
+  132  sudo ./dacapo.sh 
+  133  sudo ./dacapo.sh 
+  134  vim dacapo.sh 
+  135  vim dacapo.sh 
+  136  sudo ./dacapo.sh 
+  137  vim dacapo.sh 
+  138  sudo ./dacapo.sh 
+  139  vim dacapo.sh 
+  140  sudo ./dacapo.sh 
+  141  touch which.sh
+  142  vim dacapo.sh 
+  143  vim dacapo.sh 
+  144  mv which.sh which_bench.sh
+  145  vim which_bench.sh 
+  146  chmod 777 dacapo_bench.sh
+  147  cmmod 777 which_bench.sh 
+  148  chmod 777 which_bench.sh 
+  149  ./which_bench.sh 
+  150  ls
+  151  vim README.md 
+  152  ./which_bench.sh 
+  153  vim README.md 
+  154  vim README.md 
+  155  vim README.md 
+  156  ls
+  157  mkdir bench_jars
+  158  cp dacapo-9.12-bach.jar bench_jars/
+  159  vim dacapo.sh 
+  160  vim dacapo.sh 
+  161  ./dacapo.sh 
+  162  sudo ./dacapo.sh 
+  163  vim dacapo.sh 
+  164  sudo ./dacapo.sh 
+  165  clear
+  166  ls
+  167  vim dacapo.sh 
+  168  vim dacapo.sh 
+  169  vim dacapo.sh 
+  170  ./dacapo.sh 
+  171  vim dacapo.sh 
+  172  ./dacapo.sh 
+  173  sudo ./dacapo.sh 
+  174  ls
+  175  ls -ltr
+  176  cd chappie.dacapo/
+  177  ls
+  178  cd pmd/ls
+  179  cd pmd/
+  180  ls
+  181  cd ../
+  182  ls
+  183  cd avrora/
+  184  ls
+  185  cd../
+  186  cd ../
+  187  cd ../
+  188  sl
+  189  ls
+  190  l -ltr
+  191  ls -ltr
+  192  clear
+  193  ls
+  194  vim which_bench.sh 
+  195  git add which_bench.sh 
+  196  clear
+  197  ls
+  198  cd /home/rsaxena3/
+  199  ls
+  200  cd work/
+  201  ls
+  202  cd chappiebench/
+  203  ls
+  204  cd ..
+  205  cd oltpbench/
+  206  ls
+  207  vim oltp-chappie.sh 
+  208  clear
+  209  ls
+  210  cd chappie_project/
+  211  ls
+  212  cd chappie-benchmarking/
+  213  clear
+  214  ls
+  215  dc bench_jars/
+  216  l
+  217  ls
+  218  cd ../
+  219  ls
+  220  cd ..
+  221  l
+  222  ls
+  223  cd /home/rsaxena3/
+  224  ls
+  225  cd work/
+  226  ls
+  227  cd oltpbench/
+  228  ls
+  229  vim README.
+  230  vim README.md 
+  231  ls
+  232  vim oltp-chappie.sh 
+  233  cd run/
+  234  ls
+  235  ls -ltr
+  236  ls | grep sh
+  237  ls | grep run
+  238  vim runWiki.sh 
+  239  vim runWiki.sh 
+  240  cd ..
+  241  /cd config/
+  242  cd config/
+  243  ls
+  244  vim sample_pgtpcc_upload.xml
+  245  clear
+  246  ls
+  247  ls
+  248  clear
+  249  ls
+  250  ls -ltr
+  251  ls | grep config
+  252  vim sample_tpch_config.xml 
+  253  clear
+  254  ls
+  255  ls
+  256  cd ../
+  257  sudo /home/rsaxena3/work/chappie/run/run.sh oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b phtpcc -c config/sample_pgtpcc_config.xml --execute=true -s 5 -o outputfile"
+  258  sudo /home/rsaxena3/work/chappie/run/run.sh oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b pghtpcc -c config/sample_pgtpcc_config.xml --execute=true -s 5 -o outputfile"
+  259   /home/rsaxena3/work/chappie/run/run.sh oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b tpcc -c config/sample_tpcc_config.xml --execute=true -s 5 -o outputfile"
+  260  java -jar oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b pghtpcc -c config/sample_pgtpcc_config.xml --execute=true -s 5 -o outputfile"
+  261  java -jar oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b pghtpcc -c config/sample_pgtpcc_config.xml --execute=true -s 5 -o outputfile"
+  262  clear
+  263  java -jar oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b pghtpcc -c config/sample_pgtpcc_config.xml --execute=true -s 5 -o outputfile"
+  264  java -jar oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b pghtpcc -c config/sample_pgtpcc_config.xml --execute=true -s 5 -o outputfile"
+  265  java -jar oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b pghtpcc -c config/sample_pgtpcc_config.xml --execute=true -s 5 -o outputfile"
+  266  java -jar oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b pghtpcc -c config/sample_pgtpcc_config.xml --execute=true -s 5 -o outputfile"
+  267  ls
+  268   /home/rsaxena3/work/chappie/run/run.sh oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b tpcc -c config/sample_tpcc_config.xml --execute=true -s 5 -o outputfile"
+  269   /home/rsaxena3/work/chappie/run/run.sh oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b tpcc -c config/sample_tpcc_config.xml --execute=true -s 5 -o outputfile"
+  270  cd ~
+  271  cd chappie_project/
+  272  cd
+  273  cd chappie
+  274  ls
+  275  ls
+  276  clear
+  277  wd
+  278  ls
+  279  cd ..
+  280  /cd chappie_project
+  281  clear
+  282  pwd
+  283  cd ~
+  284  cd chappie_project
+  285  ls
+  286  cd chappie
+  287  clear
+  288  ls
+  289  vim src/chappie/Chaperone.java
+  290  ./oltpbenchmark -b tpcc -c config/sample_tpcc_config.xml --create=true --load=true --execute=true -s 5 -o outputfile
+  291  cd ~
+  292  clear
+  293  ls
+  294  pwd
+  295  ls -ltr
+  296  cd /home/rsaxena3/
+  297  ls
+  298  cd work/
+  299  ls
+  300  cd oltpbench/
+  301  ls
+  302  ./oltpbenchmark -b tpcc -c config/sample_tpcc_config.xml --create=true --load=true --execute=true -s 5 -o outputfile
+  303  vim oltpbenchmark
+  304  ./classpath.sh 
+  305  ./classpath.sh bin
+  306  vim oltpbenchmark
+  307  ;s
+  308  ls
+  309  vim oltpbenchmark
+  310  sudo vim oltpbenchmark
+  311  ./oltpbenchmark
+  312  ./oltpbenchmark tcsms pcsms
+  313  clear
+  314  ls
+  315  cd ../
+  316  cd 
+  317  cd ~
+  318  cd chappie_project/
+  319  ls
+  320  clear
+  321  ls
+  322  pw
+  323  echo $(pwd)
+  324  echo $(ls)
+  325  ls
+  326  cd chappie
+  327  ls
+  328  vim src/chappie/Chaperone.java
+  329  cd ..
+  330  cp -r chappie chappie_benchmark
+  331  mv chappie_benchmark/ chappie_perf
+  332  clear
+  333  ls
+  334  dc chappie
+  335  git pull
+  336  ls
+  337  cd chappie
+  338  git pull
+  339  clear
+  340  ls
+  341  cd src/
+  342  ls
+  343  cd chappie/
+  344  sl
+  345  ls
+  346  rm Chaperone.java
+  347  git checkout Chaperone.java_Anthony
+  348  git checkout Chaperone.java
+  349  clear
+  350  vim Chaperone.java
+  351  clear
+  352  pwd
+  353  echo $(pwd)
+  354  clear
+  355  ls
+  356  echo $(pwd)
+  357  echo $(pwd)
+  358  ls
+  359  vim Chaperone.java
+  360  vim Chaperone.java
+  361  vim Chaperone.java
+  362  vim Chaperone.java
+  363  vim Chaperone.java
+  364  /home/rsaxena3/work/chappie/run/run.sh oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b tpcc -c config/sample_tpcc_config.xml --execute=true -s 5 -o outputfile"
+  365  /home/rsaxena3/work/chappie/run/run.sh oltp.jar "" "-Dlog4j.configuration=log4j.properties" com.oltpbenchmark.DBWorkload  "-b tpcc -c config/sample_tpcc_config.xml --execute=true -s 5 -o outputfile"
+  366  cd ~
+  367  cd chappie_project/
+  368  sl
+  369  ls
+  370  git clone https://github.com/oltpbenchmark/oltpbench.git
+  371  ls
+  372  ls -ltr
+  373  cd oltpbench/
+  374  ls
+  375  vim oltpbenchmark
+  376  vim oltpbenchmark
+  377  cd ../
+  378  cd chappie
+  379  ls
+  380  cd src/
+  381  ls
+  382  cd chappie/
+  383  vim Chaperone.java
+  384  vim Chaperone.java
+  385  ls
+  386  vi chappie.oltp/
+  387  ls
+  388  cd chappie.oltp/
+  389  ls
+  390  cd ../
+  391  cd 
+  392  ls
+  393  cd chappie_project/
+  394  ls
+  395  cd oltpbench/
+  396  ls
+  397  vim oltpbenchmark
+  398  cd 
+  399  cd ~
+  400  ls
+  401  cd chappie_project/
+  402  ls
+  403  cd oltpbench/
+  404  ls
+  405  ant
+  406  com.oltpbenchmark.DBWorkload  "-b tpcc -c config/sample_tpcc_config.xml --execute=true -s 5 -o outputfile"
+  407  ls -ltr
+  408  ./oltpbenchmark
+  409  clear
+  410  ls
+  411  cd config/
+  412  ls
+  413  vim sample_tpch_config.xml 
+  414  vim sample_ycsb_config.xml 
+  415  vim tpch_sqlite.xml 
+  416  ls
+  417  cd ../
+  418  ls
+  419  ls -ltr
+  420  cd ~
+  421  cd method_stats/
+  422  ls
+  423  ls -ltr
+  424  vim run_chappie_with_stacktrace.sh 
+  425  cd ~
+  426  ls -ltr
+  427  cd chappie_project/
+  428  ls
+  429  cd chappie-benchmarking/
+  430  ls
+  431  cd bench_jars/
+  432  ls
+  433  cd ../
+  434  ls
+  435  ls
+  436  ls
+  437  cd ..
+  438  sl
+  439  ls
+  440  cd oltpbench/
+  441  ls
+  442  cd tools/
+  443  ls
+  444  cd ../
+  445  clear
+  446  ls
+  447  ls
+  448  touch run_with_chappie.sh
+  449  vim run_with_chappie.sh 
+  450  chmod 777 run_with_chappie.sh 
+  451  ./run_with_chappie.sh 
+  452  ./run_with_chappie.sh 
+  453  vim run_with_chappie.sh 
+  454  ./run_with_chappie.sh 
+  455  ls
+  456  ls | grep jar
+  457  cd lib/
+  458  ls
+  459  lclear
+  460  ls | oltp
+  461  cd ../
+  462  ls
+  463  antj ar
+  464  ant jar
+  465  ls
+  466  cd lib/
+  467  sl
+  468  ls
+  469  ls | grep oltp
+  470  cd ~/
+  471  cp /home/rsaxena3/work/oltpbench/oltp.jar .
+  472  du oltp.jar 
+  473  clear
+  474  ls
+  475  ls -ltr
+  476  cp oltp.jar chappie_project/oltpbench/
+  477  cd chappie_project/oltpbench/
+  478  ls
+  479  ./run_with_chappie.sh 
+  480  vim ~/chappie_project/chappie/run/run.sh 
+  481  vim run_with_chappie.sh 
+  482  vim ~/chappie_project/chappie/run/run.sh 
+  483  sudo ./run_with_chappie.sh 
+  484  ls
+  485  clear
+  486  clear
+  487  vim /home/rsaxena3/work/oltpbench/config/sample_tpcc_config.xml
+  488  cp /home/rsaxena3/work/oltpbench/config/sample_tpcc_config.xml config/
+  489  sudo ./run_with_chappie.sh 
+  490  clear
+  491  ls
+  492  ls -ltr
+  493  vim run_with_chappie.sh 
+  494  cd config/
+  495  ls
+  496  vim sample_db2tpcc_config.xml
+  497  ./oltpbenchmark -b tpcc -c config/sample_tpcc_config.xml --create=true --load=true
+  498  ./oltpbenchmark -b tpcc -c config/sample_tpcc_config.xml --create=true --load=true
+  499  cd ../
+  500  ./oltpbenchmark -b tpcc -c config/sample_tpcc_config.xml --create=true --load=true
+  501  clear
+  502  ls
+  503  echo $(pwd)
+  504  clear
+  505  ls
+  506  vim sysPerfEvent.c 
+  507  clear
+  508  ls
+  509  cd chappie_project/
+  510  ls
+  511  cd oltpbench/
+  512  ls
+  513  cd config/
+  514  ls
+  515  vi config.xml 
+  516  vim sample_twitter_config.xml 
+  517  ls -ltr
+  518  vim sample_tpcc_config.xml 
+  519  vim sample_smallbank_config.xml 
+  520  vim sample_tpcc_config.xml 
+  521  cd ../
+  522  ls
+  523  history > hist
