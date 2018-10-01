@@ -16,3 +16,17 @@ xalan
 
 The the following benchmarks are not working:
 tradesoap
+
+
+OLTP Benchmarks Suits
++++++++++++++++++++++++
+eponions
+noop
+smallbank
+tatp
+tpcch
+tpcc
+twitter
+ycsb
+
+Each oltp benchmark has a configuration associated with it. It is located in config/samples_${benchname}_config.xml.
